@@ -1,0 +1,17 @@
+[package]
+name = "power_modbus_rust"
+version = "0.1.0"
+authors = ["Michael-Law <mlawsan@outlook.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+diesel = { version = "1.4.4"}
+dotenv = "0.15.0"
+tokio = { version = "0.2", features = ["full"] }
+futures = "*"  
+tokio-core = "*"
+tokio-serial = "*"
+tokio-service = "*"
+tokio-modbus = { version = "*", default-features = true, features = ["rtu"] }
