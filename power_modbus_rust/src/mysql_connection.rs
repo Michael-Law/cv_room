@@ -54,4 +54,4 @@ let selected_payments = conn
 // Mysql gives no guaranties on order of returned rows
 // without `ORDER BY`, so assume we are lucky.
 assert_eq!(payments, selected_payments);
-println!("Yay!");m
+println!("Succesful");m
