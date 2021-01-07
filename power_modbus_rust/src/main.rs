@@ -3,6 +3,9 @@ extern crate tokio_core;
 extern crate tokio_modbus;
 extern crate tokio_serial;
 
+use mysql::*;
+use mysql::prelude::*;
+
 #[cfg(feature = "rtu")]
 use tokio_modbus::client::rtu::connect;
 #[tokio::main]
@@ -11,8 +14,8 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     use tokio_modbus::prelude::*;
 
     let tty_path = "COM6";
-    
     let addresses = vec![1,2,3,4,5];
+    
     loop {
         for i in 0..addresses.len(){
             

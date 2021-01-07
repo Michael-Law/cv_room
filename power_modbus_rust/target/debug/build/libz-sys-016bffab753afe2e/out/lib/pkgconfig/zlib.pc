@@ -1,0 +1,13 @@
+prefix=C:\Users\mls\Desktop\FSM\cv_room\power_modbus_rust\target\debug\build\libz-sys-016bffab753afe2e\out
+exec_prefix=@exec_prefix@
+libdir=@libdir@
+sharedlibdir=@sharedlibdir@
+includedir=@includedir@
+
+Name: zlib
+Description: zlib compression library
+Version: @VERSION@
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

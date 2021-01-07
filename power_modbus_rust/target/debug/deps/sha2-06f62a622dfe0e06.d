@@ -1,0 +1,12 @@
+C:\Users\mls\Desktop\FSM\cv_room\power_modbus_rust\target\debug\deps\sha2-06f62a622dfe0e06.rmeta: C:\Users\mls\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\lib.rs C:\Users\mls\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\consts.rs C:\Users\mls\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha256.rs C:\Users\mls\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha256_utils.rs C:\Users\mls\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha512.rs C:\Users\mls\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha512_utils.rs
+
+C:\Users\mls\Desktop\FSM\cv_room\power_modbus_rust\target\debug\deps\libsha2-06f62a622dfe0e06.rlib: C:\Users\mls\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\lib.rs C:\Users\mls\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\consts.rs C:\Users\mls\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha256.rs C:\Users\mls\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha256_utils.rs C:\Users\mls\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha512.rs C:\Users\mls\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha512_utils.rs
+
+C:\Users\mls\Desktop\FSM\cv_room\power_modbus_rust\target\debug\deps\sha2-06f62a622dfe0e06.d: C:\Users\mls\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\lib.rs C:\Users\mls\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\consts.rs C:\Users\mls\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha256.rs C:\Users\mls\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha256_utils.rs C:\Users\mls\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha512.rs C:\Users\mls\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha512_utils.rs
+
+C:\Users\mls\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\lib.rs:
+C:\Users\mls\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\consts.rs:
+C:\Users\mls\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha256.rs:
+C:\Users\mls\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha256_utils.rs:
+C:\Users\mls\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha512.rs:
+C:\Users\mls\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha512_utils.rs:
