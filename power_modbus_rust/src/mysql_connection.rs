@@ -1,5 +1,4 @@
-use mysql::*;
-use mysql::prelude::*;
+use mysql_async::prelude::*;
 
 extern crate futures;
 extern crate tokio_core;
