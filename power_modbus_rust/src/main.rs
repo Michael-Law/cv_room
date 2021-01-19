@@ -18,7 +18,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     use tokio_serial::{Serial, SerialPortSettings};
     use tokio_modbus::prelude::*;
 
-    let url = "mysql://root:v?577ZX@localhost:3306/test";
+    let url = "mysql://root:v%3F557ZX@localhost:3306/test";
     let pool = mysql_async::Pool::new(url);
     let mut conn = pool.get_conn().await?;
 
@@ -39,8 +39,8 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     // Save payments
     let params = powers.clone().into_iter().map(|power| {
         params! {
-            "customer_id" => power.name,
-            "amount" => power.voltage,
+            "power_meter_name" => power.name,
+            "power_meter_voltage" => power.voltage,
         }
     });
 
